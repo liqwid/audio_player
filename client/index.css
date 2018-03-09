@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #B0BEC5;
+}
+
+@font-face {
+  font-family: Alegreya;
+  src: url(AlegreyaSans-Thin.ttf);
+  font-weight: thin;
+}
+
+@font-face {
+  font-family: Alegreya;
+  src: url(AlegreyaSans-Light.ttf);
+  font-weight: light;
+}
